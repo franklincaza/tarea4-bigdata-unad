@@ -32,5 +32,5 @@ mongosh produccion_bigdata scripts/consultas_mongodb.js
 ```
 
 ## Presentación online
+https://docs.google.com/presentation/d/1kvkQNn_2qH2KAFQfyZmswu1JgmkZHJuaI8lP0fZvSsI/edit?slide=id.p1#slide=id.p1
 
-https://claude.ai/artifact/7j8MtyP85vXXHo1cKR9WeA
